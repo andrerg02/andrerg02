@@ -1,10 +1,10 @@
 ### Hi there! I'm André :)
 
-<span>
+<div>
   <a href="https://github.com/andrerg02">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrerg02&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrerg02&layout=compact&langs_count=7&theme=great-gatsby"/>
-</span>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Deds-Racket" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Racket-logo.svg/512px-Racket-logo.svg.png">
@@ -18,7 +18,7 @@
   <img align="center" alt="Deds-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Deds-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Deds-Vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="right" alt="Deds-Fractal" height="170" width="300" src="https://thumbs.gfycat.com/SadCalmAmericanbulldog-size_restricted.gif">
+  <img align="right" alt="Deds-Fractal" height="100" width="200" src="https://thumbs.gfycat.com/SadCalmAmericanbulldog-size_restricted.gif">
 </div>
   
 ##
