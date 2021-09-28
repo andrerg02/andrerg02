@@ -1,10 +1,10 @@
 ### Hi there! I'm André :)
 
-<div>
+<span>
   <a href="https://github.com/andrerg02">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrerg02&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrerg02&layout=compact&langs_count=7&theme=dark"/>
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrerg02&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrerg02&layout=compact&langs_count=7&theme=great-gatsby"/>
+</span>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Deds-Racket" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Racket-logo.svg/512px-Racket-logo.svg.png">
