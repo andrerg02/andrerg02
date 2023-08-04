@@ -18,8 +18,6 @@
   <img align="center" alt="Deds-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Deds-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Deds-Vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="right" alt="Deds-Fractal" height="170" width="300" src="https://thumbs.gfycat.com/SadCalmAmericanbulldog-size_restricted.gif">
-</div>
   
 ##
 
